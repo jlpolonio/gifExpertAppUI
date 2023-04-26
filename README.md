@@ -1,4 +1,4 @@
-#GifExpertApp
+# GifExpertApp
 
 Este es proyecto de aprendizaje de React, para poder lanzar este proyecto previamente hay que
 usar el comando de:
