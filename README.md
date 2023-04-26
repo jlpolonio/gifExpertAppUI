@@ -8,8 +8,9 @@ usar el comando de:
 Una vez descargado todos los paquetes del proyecto en la carpeta node_modules ya podemos usar los
 siguentes comandos:
 
-    - yarn dev: para lanzar nuestra aplicacion y probarla en localhost.
-    - yarn build: con lo que nos creara el codigo compilado y listo para poder subir a produccion.
+    |Comando|Descripcion|
+    |yarn dev|para lanzar nuestra aplicacion y probarla en localhost.|
+    |yarn build| con lo que nos creara el codigo compilado y listo para poder subir a produccion.|
 
 Todas las tecnologias utilizadas en este proyecto podemos verlas en el package.json en la parte
 de dependencias y ver si el codigos os es de utilidad para uso que le querais dar.
